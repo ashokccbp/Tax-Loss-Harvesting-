@@ -96,13 +96,10 @@ The application primarily uses React's built-in `useState` and `useEffect` hooks
 ## Contact
 
 [G Ashok Kumar Reddy/GitHub Profile link 
-; https://github.com/ashokccbp]
+: https://github.com/ashokccbp]
 
 ---
 
-How does this revised version look to you? Is there anything specific you'd like to change or add?
 
-
-https://github.com/ashokccbp
 
 
